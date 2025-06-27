@@ -1,4 +1,4 @@
-# Segmenta-o_Manuscrito
+# Segmentação_Manuscrito
 
 Este repositório contém o projeto desenvolvido para a disciplina **Práticas Computacionais Avançadas**, com foco em **segmentação de linhas manuscritas** a partir de diferentes abordagens de processamento de imagem e aprendizado de máquina. O estudo explora técnicas baseadas em **contornos**, **projeção horizontal** e **clusterização morfológica de documentos**.
 - Gabriela Frajtag, João P. Mariano, Laís Ruela, Pedro H. Kramer  
