@@ -58,10 +58,10 @@ Investigar métodos de segmentação de linhas em textos manuscritos, avaliando 
 
 ## Referências
 
-[1] GARRIDO-MUNOZ, C.; RIOS-VILA, A.; CALVO-ZARAGOZA, J. Handwritten Text Recognition: A Survey. arXiv:2502.08417, 2025.
-[2] ARON, I. Forensic Graphoscopy. Bulletin of the Transilvania University of Braşov, 2024.
-[3] BLUCHE, T. Deep Neural Networks for Large Vocabulary Handwritten Text Recognition. s.d.
-[4] BRASIL, E.; NASCIMENTO, L. F. História Digital. Estudos Históricos, v. 33, n. 69, abr. 2020.
-[5] SIMONYAN, K.; ZISSERMAN, A. Very Deep Convolutional Networks for Large-Scale Image Recognition. arXiv:1409.1556
-[6] https://github.com/computervisionpro/yt/tree/main/line-text-segmentation
-[7] https://github.com/muthuspark/line-segmentation-handwritten-doc/
+- [1] GARRIDO-MUNOZ, C.; RIOS-VILA, A.; CALVO-ZARAGOZA, J. Handwritten Text Recognition: A Survey. arXiv:2502.08417, 2025.
+- [2] ARON, I. Forensic Graphoscopy. Bulletin of the Transilvania University of Braşov, 2024.
+- [3] BLUCHE, T. Deep Neural Networks for Large Vocabulary Handwritten Text Recognition. s.d.
+- [4] BRASIL, E.; NASCIMENTO, L. F. História Digital. Estudos Históricos, v. 33, n. 69, abr. 2020.
+- [5] SIMONYAN, K.; ZISSERMAN, A. Very Deep Convolutional Networks for Large-Scale Image Recognition. arXiv:1409.1556
+- [6] https://github.com/computervisionpro/yt/tree/main/line-text-segmentation
+- [7] https://github.com/muthuspark/line-segmentation-handwritten-doc/
