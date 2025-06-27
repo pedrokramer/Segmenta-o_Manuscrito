@@ -18,10 +18,13 @@ Investigar métodos de segmentação de linhas em textos manuscritos, avaliando 
 ## Organização do Repositório
 
 imagens/ # Imagens utilizadas (exemplares do IMS, CE-DOHS, BNDigital)
-Galeria.ipynb  # Notebook da etapa de clusterização
-Segmentacao_imagens.ipynb # Notebook com projeção de histograma
+/ # Pasta com clusters
+.ipynb  # Notebook com clusterização
+Segmentação_por_histograma.ipynb  # Notebook com projeção de histograma 
+Galeria.ipynb  # Notebook com projeção de histograma em comparação 
 Segmentacao_Lais.ipynb # Notebook com segmentação por contorno
 README.md # Este arquivo
+
 ## Metodologia
 ### 1. Clusterização das Imagens
 
